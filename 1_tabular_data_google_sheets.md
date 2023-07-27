@@ -1,4 +1,4 @@
-# Step 1 - Tabular data harvesting with Google Sheets
+# Tabular data harvesting with Google Sheets
 
 ## IMPORTHTML
 
