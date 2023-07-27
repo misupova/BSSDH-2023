@@ -16,17 +16,18 @@ Octoparse is a web scraping tool that enables users to extract data from various
 
 ## Exercises
 ### Task 1: Basic Web Scraping
--Objective: Learn the basics of Octoparse by scraping news articles from a local Latvian news site.
--Task: Use Octoparse to scrape news articles from delfi.lv. Extract information such as the title, author, date, and content of each article.
+- Objective: Learn the basics of Octoparse by scraping news articles from a local Latvian news site.
+- Task: Use Octoparse to scrape news articles from delfi.lv. Extract information such as the title, author, date, and content of each article.
 ### Task 2: Advanced Web Scraping - TO UPLOAD
--Objective: Advance your Octoparse skills by scraping more complex data.
--Task: Use Octoparse to scrape search results from Google (any query you want). This will involve dealing with dynamic and continuously loading data. Try to scrape at least multiple pages.
+- Objective: Advance your Octoparse skills by scraping more complex data.
+- Task: Use Octoparse to scrape search results from Google (any query you want). This will involve dealing with dynamic and continuously loading data. Try to scrape at least multiple pages.
+- Deliverables: file with scraped data and a screenshot with workflow
 ### Task 3: Web Archive Scraping
--Objective: Learn how to scrape data from web archives.
--Task: Use Octoparse to scrape articles from the Latvian magazine “Jaunā gaita”  archive jaunagaita.net. This will involve dealing with older website structures and potentially missing data.
+- Objective: Learn how to scrape data from web archives.
+- Task: Use Octoparse to scrape articles from the Latvian magazine “Jaunā gaita”  archive jaunagaita.net. This will involve dealing with older website structures and potentially missing data.
 ### Task 4: Advanced News Scraping
--Objective: Learn how to scrape news articles from international news sites, which often involve more complex site structures.
--Task: Use Octoparse to scrape news articles from BBC News (https://www.bbc.com/). This will involve navigating through multiple pages of articles and extracting detailed information from each article. 
+- Objective: Learn how to scrape news articles from international news sites, which often involve more complex site structures.
+- Task: Use Octoparse to scrape news articles from BBC News (https://www.bbc.com/). This will involve navigating through multiple pages of articles and extracting detailed information from each article. 
 ### Task 5: Project
--Objective: Apply what you've learned in a project.
--Task: Use Octoparse to create a dataset of news articles related to a specific topic (e.g., "Middle East"), trying to scrape different news sites. The dataset should include information such as the title, author, date, content, and source of each article.
+- Objective: Apply what you've learned in a project.
+- Task: Use Octoparse to create a dataset of news articles related to a specific topic (e.g., "Middle East"), trying to scrape different news sites. The dataset should include information such as the title, author, date, content, and source of each article.
