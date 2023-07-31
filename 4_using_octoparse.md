@@ -21,7 +21,6 @@ Octoparse is a web scraping tool that enables users to extract data from various
 ### Task 2: Advanced Web Scraping - TO UPLOAD
 - Objective: Advance your Octoparse skills by scraping more complex data.
 - Task: Use Octoparse to scrape search results from Google (any query you want). This will involve dealing with dynamic and continuously loading data. Try to scrape at least multiple pages.
-- Deliverables: file with scraped data and a screenshot with workflow
 ### Task 3: Web Archive Scraping
 - Objective: Learn how to scrape data from web archives.
 - Task: Use Octoparse to scrape articles from the Latvian magazine “Jaunā gaita”  archive jaunagaita.net. This will involve dealing with older website structures and potentially missing data.
